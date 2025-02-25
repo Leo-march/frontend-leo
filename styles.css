@@ -1,0 +1,29 @@
+.p1 {
+    color: white;
+    font-size:x-large;
+    text-align: center;
+}
+.p2{
+    color: white;
+    font-size: large;
+    display:flex;
+}
+.p3{
+    color: white;
+    text-align: center;
+}
+.p4{
+    color: black;
+    font-size:x-large;
+    text-align: center;
+}
+.p5{
+    color: black;
+    font-size:x-large;
+    text-align: center;
+}
+
+.background{
+    background-color: black;
+    font-family: sans-serif;
+}
