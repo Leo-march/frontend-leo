@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.caixaferrada{
+    margin:20px;
+    padding:25px;
+    height: 500px;
+    width: 500px;
+    background-color:darkred;
+}
